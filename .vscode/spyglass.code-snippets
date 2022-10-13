@@ -17,5 +17,13 @@
         "This is a copy of a PDF. You can find the original [here]($0){:target=\"_blank\"}. ([backup]($1){:target=\"_blank\"})"
       ],
       "description": "Test."
+    },
+    "PDF Transcript": {
+      "scope": "markdown",
+      "prefix": ["pdf-transcript"],
+      "body": [
+        "This is an automatic transcription of a PDF. You can find the original [here]($0){:target=\"_blank\"}. ([backup]($1){:target=\"_blank\"})"
+      ],
+      "description": "Test."
     }
 }
