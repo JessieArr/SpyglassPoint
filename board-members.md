@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Board Members
-nav_order: 5
+nav_order: 6
 ---
 
 Spyglass Point's board members for 2022 are listed below:
