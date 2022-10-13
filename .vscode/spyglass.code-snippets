@@ -1,0 +1,21 @@
+{
+    "Board Minutes": {
+      "scope": "markdown",
+      "prefix": ["minutes"],
+      "body": [
+        "---",
+        "title: Month XX, $CURRENT_YEAR Meeting Minutes",
+        "parent: Board Meeting Minutes",
+        "---",
+      ],
+      "description": "Frontmatter for a Board Meeting Minutes file."
+    },
+    "PDF Copy": {
+      "scope": "markdown",
+      "prefix": ["pdf-copy"],
+      "body": [
+        "This is a copy of a PDF. You can find the original [here]($0){:target=\"_blank\"}. ([backup]($1){:target=\"_blank\"})"
+      ],
+      "description": "Test."
+    }
+}
