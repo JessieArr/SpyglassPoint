@@ -1,6 +1,7 @@
 ---
 layout: default
 title: December 12, 2021 Meeting Minutes
+parent: Board Meeting Minutes
 ---
 
 Spyglass Point Condominium Association of Pensacola, Inc
