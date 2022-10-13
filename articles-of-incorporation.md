@@ -33,18 +33,18 @@ The powers of the Association shall include and be governed by the following pro
 
 3.2 The Association shall have all of the powers and duties set forth in the Condominium Act (F.S. §718), as the same may be amended from time to time, and all of the powers and duties reasonably necessary to operate the condominium pursuant to the Declaration and as it may be amended from time to time, if not inconsistent with the Condominium Act, including but not limited to the following:
 
-(A) To make and collect assessments against members as unit owners to defray the costs, expenses and losses of the condominium.
-(B) To use the proceeds of assessments in the exercise of its powers and duties.
-(C) The maintenance, repair, replacement and operation of the condominium property.
-(D) The purchase of insurance upon the condominium property and insurance for the protection of the Association and its members as unit owners.
-(E) The reconstruction of improvements after casualty and the further improvement of the property.
-(F) To make and amend reasonable regulations respecting the use of the .property in the condominium.
-(G) To approve or disapprove the mortgage of units as may be provided by the Declaration of. Condominium and the ByLaws.
-(H) To enforce by legal means the provisions of the Condominium Act, the Declaration of Condominium, these Articles, the ByLaws of the Association and the Regulations for the use of the property in the condominium.
-(I) To contract for the management of.the condominiums and to delegate to such contractor all powers and duties of the Association except such as are specifically required by the Declaration of Condominium to have approval of the Board of Directors or the membership of the Association.
-(J) To employ personnel to perform the services required for proper operation of the condominium.
-(K) To hire attorneys or other professionals for the purposes of bringing legal,action or enforcing rights in the name of and on behalf of the individual condominium unit owners where such actions or rights are common to all of the condominium unit owners; and to bring such action in the name of and on behalf of said condominium owners.
-(L) To hold title to and own fee simple or other lesser interest in real, personal or mixed property where ever situated, including units in the condominium, and to lease, mortgage and convey the same.
+- (A) To make and collect assessments against members as unit owners to defray the costs, expenses and losses of the condominium.
+- (B) To use the proceeds of assessments in the exercise of its powers and duties.
+- (C) The maintenance, repair, replacement and operation of the condominium property.
+- (D) The purchase of insurance upon the condominium property and insurance for the protection of the Association and its members as unit owners.
+- (E) The reconstruction of improvements after casualty and the further improvement of the property.
+- (F) To make and amend reasonable regulations respecting the use of the .property in the condominium.
+- (G) To approve or disapprove the mortgage of units as may be provided by the Declaration of. Condominium and the ByLaws.
+- (H) To enforce by legal means the provisions of the Condominium Act, the Declaration of Condominium, these Articles, the ByLaws of the Association and the Regulations for the use of the property in the condominium.
+- (I) To contract for the management of.the condominiums and to delegate to such contractor all powers and duties of the Association except such as are specifically required by the Declaration of Condominium to have approval of the Board of Directors or the membership of the Association.
+- (J) To employ personnel to perform the services required for proper operation of the condominium.
+- (K) To hire attorneys or other professionals for the purposes of bringing legal,action or enforcing rights in the name of and on behalf of the individual condominium unit owners where such actions or rights are common to all of the condominium unit owners; and to bring such action in the name of and on behalf of said condominium owners.
+- (L) To hold title to and own fee simple or other lesser interest in real, personal or mixed property where ever situated, including units in the condominium, and to lease, mortgage and convey the same.
 
 3.3 The Association shall have the power to purchase a unit or units in the condominium and to hold, lease, mortgage and convey the same.
 
