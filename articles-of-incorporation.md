@@ -4,7 +4,7 @@ title: Articles of Incorporation
 nav_order: 1
 ---
 
-This is an automatic transcription of a PDF. You can find the original [here](https://www.epmfl.net/_files/ugd/4ba896_a2583e9c8ff3481daa26f3c0dcbfc157.pdf). ([backup](https://drive.google.com/file/d/1L-xXVtOAh70GJ6OtizBTTGAMEAXdJP9q/view?usp=sharing))
+This is an automatic transcription of a PDF. You can find the original [here](https://www.epmfl.net/_files/ugd/4ba896_a2583e9c8ff3481daa26f3c0dcbfc157.pdf){:target="_blank"}. ([backup](https://drive.google.com/file/d/1L-xXVtOAh70GJ6OtizBTTGAMEAXdJP9q/view?usp=sharing){:target="_blank"})
 
 # Articles of Incorporation
 

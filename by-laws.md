@@ -4,7 +4,7 @@ title: Spyglass Point By-Laws
 nav_order: 2
 ---
 
-This is an automatic transcription of a PDF. You can find the original [here](https://www.epmfl.net/_files/ugd/4ba896_4af076f462234bea9d9f7e25e56a7ba3.pdf). ([backup](https://drive.google.com/file/d/1-gtQocHkwoFeH6nhZzVhrLf17dixECFN/view?usp=sharing))
+This is an automatic transcription of a PDF. You can find the original [here](https://www.epmfl.net/_files/ugd/4ba896_4af076f462234bea9d9f7e25e56a7ba3.pdf){:target="_blank"}. ([backup](https://drive.google.com/file/d/1-gtQocHkwoFeH6nhZzVhrLf17dixECFN/view?usp=sharing){:target="_blank"})
 
 # Spyglass Point By-Laws
 
