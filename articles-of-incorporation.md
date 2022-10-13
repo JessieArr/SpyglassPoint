@@ -67,6 +67,7 @@ of Directors no later that the earlier of the following dates:
 7 years after-the first conveyance to a unit purchaser, but in no event no later than January 1, 1988.
 The directors named in these Articles shall serve until the first election of directors, and any vacancies occuring before the first election shall be filled by the remaining directors, and if there are no remaining directors, such vacancies shall be filled by the Developer.
 5.4 The names and addresses of the members of the first Board of Directors who shall hold office until their successors are elected and have qualified, or until removed, are as follows:
+
 | Name                   | Address           |
 |:-----------------------|:------------------|
 | Joseph J. Campus, III  | P. O. Box 10055 8231 Northpointe Boulevard Pensacola, Florida 32504 |
