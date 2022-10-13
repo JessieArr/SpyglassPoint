@@ -1,6 +1,6 @@
 ---
 layout: default
-title: December 12, 2021 Meeting Minutes
+title: 2021-12-09 Meeting Minutes
 parent: Board Meeting Minutes
 ---
 This is a copy of a PDF. You can find the original [here](https://www.epmfl.net/_files/ugd/4ba896_37d29c9faa17492caab9ef044089ddb7.pdf){:target="_blank"}. ([backup](https://drive.google.com/file/d/1A-FrRPgCp6sxCKa_ScKegIkpcJmkryd0/view?usp=sharing){:target="_blank"})

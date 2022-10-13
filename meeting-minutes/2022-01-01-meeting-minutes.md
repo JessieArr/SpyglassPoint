@@ -1,5 +1,5 @@
 ---
-title: January 20, 2022 Meeting Minutes
+title: 2022-01-20 Meeting Minutes
 parent: Board Meeting Minutes
 ---
 

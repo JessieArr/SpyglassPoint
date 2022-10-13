@@ -1,4 +1,4 @@
 ---
-title: April 21, 2022 Meeting Minutes
+title: 2022-04-21 Meeting Minutes
 parent: Board Meeting Minutes
 ---

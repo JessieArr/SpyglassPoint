@@ -4,7 +4,7 @@
       "prefix": ["minutes"],
       "body": [
         "---",
-        "title: Month XX, $CURRENT_YEAR Meeting Minutes",
+        "title: $CURRENT_YEAR-XX-XX Meeting Minutes",
         "parent: Board Meeting Minutes",
         "---",
       ],
