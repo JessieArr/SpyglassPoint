@@ -1,4 +1,9 @@
 
+---
+layout: default
+title: Enforcement of By-Laws
+nav_order: 3
+---
 # Spyglass Point Condominium Association of Pensacola, Inc.
 I. ENFORCEMENT OF DECLARATION, BY-LAWS, CONVENANTS AND RULES
 The Board of Directors (“the Board”) of the Spyglass Point Homeowners Association (“the
